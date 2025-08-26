@@ -2,6 +2,7 @@
 
 <p align="center">
   I’m interested in financial analytics, market research, and strategic marketing.  
+  
   📫 Contact: denyshudenko@rambler.ru
 </p>
 
